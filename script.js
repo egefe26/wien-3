@@ -7,7 +7,7 @@ const hotels = [
         reviews: 13613,
         reviewScore: 8.6,
         bookingLink: "https://www.booking.com/hotel/at/motel-one-wien-westbahnhof.en-gb.html",
-        mapsLink: "https://goo.gl/maps/DwA2g1tL4XU2"
+        mapsLink: "https://maps.app.goo.gl/mcDXSn8aavcjaxLZA"
     },
     {
         name: "Ibis budget Wien Messe",
@@ -17,7 +17,7 @@ const hotels = [
         reviews: 9426,
         reviewScore: 7.5,
         bookingLink: "https://www.booking.com/hotel/at/ibis-budget-wien-messe.en-gb.html",
-        mapsLink: "https://goo.gl/maps/3y3yXotj1Z82"
+        mapsLink: "https://maps.app.goo.gl/dCwwTsaTd5aQfYru6"
     },
     {
         name: "JUFA Hotel Wien City",
@@ -27,7 +27,7 @@ const hotels = [
         reviews: 8947,
         reviewScore: 8.5,
         bookingLink: "https://www.booking.com/hotel/at/jufa-wien-city.en-gb.html",
-        mapsLink: "https://goo.gl/maps/f1T1vMYPQUR2"
+        mapsLink: "https://maps.app.goo.gl/2PKzg8pVdaVATNM79"
     },
     {
         name: "Holiday Inn Vienna City (i)",
@@ -37,7 +37,7 @@ const hotels = [
         reviews: 1473,
         reviewScore: 8.3,
         bookingLink: "https://www.booking.com/hotel/at/holiday-inn-vienna-city.en-gb.html",
-        mapsLink: "https://goo.gl/maps/ZLk1D2RuTV32"
+        mapsLink: "https://maps.app.goo.gl/3oHzF4ZQgH1kcVGa9"
     },
     {
         name: "Austria Trend Hotel Europa Wien (ege)",
@@ -47,7 +47,7 @@ const hotels = [
         reviews: 4985,
         reviewScore: 8.6,
         bookingLink: "https://www.booking.com/hotel/at/austria-trend-europa.en-gb.html",
-        mapsLink: "https://goo.gl/maps/dXaXkSkjTUS2"
+        mapsLink: "https://maps.app.goo.gl/HJE3KCCBRL7u9qmS7"
     },
     {
         name: "Hotel NH Wien City (i)",
@@ -57,7 +57,7 @@ const hotels = [
         reviews: 2928,
         reviewScore: 8.1,
         bookingLink: "https://www.booking.com/hotel/at/nh-wien-city.en-gb.html",
-        mapsLink: "https://goo.gl/maps/vRxUNcBW6E82"
+        mapsLink: "https://maps.app.goo.gl/ttwkKmUGBacJZtcz6"
     },
     {
         name: "Flemings Selection Hotel Wien-City (i)",
@@ -67,7 +67,7 @@ const hotels = [
         reviews: 2896,
         reviewScore: 8.5,
         bookingLink: "https://www.booking.com/hotel/at/fleming-s-deluxe-wien-city.en-gb.html",
-        mapsLink: "https://goo.gl/maps/JJ6rmPQmnf62"
+        mapsLink: "https://maps.app.goo.gl/QxLU9qemgEwRaQNj9"
     }
 ];
 
