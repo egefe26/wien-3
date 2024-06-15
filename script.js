@@ -30,7 +30,7 @@ const hotels = [
         mapsLink: "https://goo.gl/maps/f1T1vMYPQUR2"
     },
     {
-        name: "Holiday Inn Vienna City",
+        name: "Holiday Inn Vienna City (i)",
         distance: 1.7,
         pricePerNight: 100,
         totalPrice: 200,
@@ -40,7 +40,7 @@ const hotels = [
         mapsLink: "https://goo.gl/maps/ZLk1D2RuTV32"
     },
     {
-        name: "Austria Trend Hotel Europa Wien",
+        name: "Austria Trend Hotel Europa Wien (ege)",
         distance: 0,
         pricePerNight: 137,
         totalPrice: 274,
@@ -50,7 +50,7 @@ const hotels = [
         mapsLink: "https://goo.gl/maps/dXaXkSkjTUS2"
     },
     {
-        name: "Hotel NH Wien City",
+        name: "Hotel NH Wien City (i)",
         distance: 1.5,
         pricePerNight: 120,
         totalPrice: 240,
@@ -60,7 +60,7 @@ const hotels = [
         mapsLink: "https://goo.gl/maps/vRxUNcBW6E82"
     },
     {
-        name: "Flemings Selection Hotel Wien-City",
+        name: "Flemings Selection Hotel Wien-City (i)",
         distance: 1.1,
         pricePerNight: 150,
         totalPrice: 300,
